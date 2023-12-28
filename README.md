@@ -1,6 +1,3 @@
-@author: kkarimov
-@helper: drsp3ed (Amil) github: https://github.com/drsp3ed
-
 Before starting the code, in order to access the GUI version:
 (if you have Python installed)
 Open the console (terminal).
